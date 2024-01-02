@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1000" height="1000" viewBox="0 0 1000 1000" xml:space="preserve">
+<desc>Created with Fabric.js 3.5.0</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
+<g transform="matrix(0 -0.6944 0.9949 0 648.4176 500.032)" id="896840">
+<g style="" vector-effect="non-scaling-stroke">
+		<g transform="matrix(1 0 0 1 0 52.0072)" id="svg">
+<linearGradient id="SVGID_4" gradientUnits="objectBoundingBox" gradientTransform="matrix(1 0 0 1 720 397.0072)" x1="0.87" y1="0.84" x2="0.13" y2="0.16">
+<stop offset="5%" style="stop-color:rgb(86,27,167);stop-opacity: 0.4"/>
+<stop offset="95%" style="stop-color:rgb(153,0,239);stop-opacity: 0.4"/>
+</linearGradient>
+<path style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: url(#SVGID_4); fill-rule: nonzero; opacity: 1;" transform=" translate(-720, -397.0072)" d="M 0 700 L 0 131 C 66.77006627393226 169.83449926362297 133.54013254786452 208.66899852724595 199 194 C 264.4598674521355 179.33100147275405 328.6095360824742 111.15850515463917 384 97 C 439.3904639175258 82.84149484536083 486.02172312223865 122.69698085419736 543 140 C 599.9782768777613 157.30301914580264 667.3035714285714 152.05357142857142 734 151 C 800.6964285714286 149.94642857142858 866.7639911634756 153.08873343151694 931 157 C 995.2360088365244 160.91126656848306 1057.6404639175257 165.59149484536084 1112 171 C 1166.3595360824743 176.40850515463916 1212.6741531664213 182.54528718703978 1266 176 C 1319.3258468335787 169.45471281296022 1379.6629234167895 150.2273564064801 1440 131 L 1440 700 L 0 700 Z" stroke-linecap="round"/>
+</g>
+		<g transform="matrix(1 0 0 1 0 116.1105)" id="svg">
+<linearGradient id="SVGID_5" gradientUnits="objectBoundingBox" gradientTransform="matrix(1 0 0 1 720 461.1104)" x1="0.87" y1="0.84" x2="0.13" y2="0.16">
+<stop offset="5%" style="stop-color:rgb(86,27,167);stop-opacity: 0.53"/>
+<stop offset="95%" style="stop-color:rgb(153,0,239);stop-opacity: 0.53"/>
+</linearGradient>
+<path style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: url(#SVGID_5); fill-rule: nonzero; opacity: 1;" transform=" translate(-720, -461.1104)" d="M 0 700 L 0 306 C 44.434462444771725 260.65187776141386 88.86892488954345 215.30375552282766 154 242 C 219.13107511045655 268.69624447717234 304.95876288659787 367.4368556701031 362 370 C 419.04123711340213 372.5631443298969 447.29602356406485 278.94882179675994 512 242 C 576.7039764359351 205.05117820324006 677.8571428571428 224.76785714285717 740 261 C 802.1428571428572 297.23214285714283 825.2754050073638 349.9797496318115 884 346 C 942.7245949926362 342.0202503681885 1037.0412371134018 281.3131443298969 1099 283 C 1160.9587628865982 284.6868556701031 1190.559646539028 348.7676730486009 1242 363 C 1293.440353460972 377.2323269513991 1366.720176730486 341.6161634756995 1440 306 L 1440 700 L 0 700 Z" stroke-linecap="round"/>
+</g>
+		<g transform="matrix(1 0 0 1 0 211.5663)" id="svg">
+<linearGradient id="SVGID_6" gradientUnits="objectBoundingBox" gradientTransform="matrix(1 0 0 1 720 556.5664)" x1="0.87" y1="0.84" x2="0.13" y2="0.16">
+<stop offset="5%" style="stop-color:rgb(86,27,167);stop-opacity: 1"/>
+<stop offset="95%" style="stop-color:rgb(153,0,239);stop-opacity: 1"/>
+</linearGradient>
+<path style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: url(#SVGID_6); fill-rule: nonzero; opacity: 1;" transform=" translate(-720, -556.5664)" d="M 0 700 L 0 481 C 54.619293078055975 452.5443667157585 109.23858615611195 424.08873343151697 171 421 C 232.76141384388805 417.91126656848303 301.6649484536082 440.1894329896907 372 460 C 442.3350515463918 479.8105670103093 514.101620029455 497.15353460972017 566 509 C 617.898379970545 520.8464653902798 649.9285714285713 527.1964285714287 700 499 C 750.0714285714287 470.8035714285714 818.1840942562592 408.06075110456555 879 416 C 939.8159057437408 423.93924889543445 993.3350515463917 502.5605670103092 1065 505 C 1136.6649484536083 507.4394329896908 1226.4756995581738 433.69698085419736 1292 417 C 1357.5243004418262 400.30301914580264 1398.762150220913 440.6515095729013 1440 481 L 1440 700 L 0 700 Z" stroke-linecap="round"/>
+</g>
+</g>
+</g>
+</svg>

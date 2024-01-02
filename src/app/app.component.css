@@ -7,16 +7,17 @@ section {
 .home {
     display: flex;
     align-items: center;
-    background-image: url('/assets/images/BG1(1).png');
+    background-image: url('/assets/images/wave01.svg');
     background-repeat: no-repeat; 
-    background-size: 100% 100%;
+    background-size: 50% 100%;
+    background-position: right;    
 }
 
 img {
     position: relative;
-    left: 500px;
-    top: 65px;
-    height: 850px;
+    left: 34.5em;
+    top: 4.4em;
+    height: 50em;
 }
 
 .home .home-content {
@@ -38,4 +39,23 @@ img {
 .home-content p {
     font-size: 1.2rem;
     font-weight: 400;
+}
+
+.about {
+    display: flexbox;
+    flex-direction: row;
+}
+.aboutPic {
+    
+    max-width: 45%;
+}
+
+.aboutPic>img {
+    float: left;
+    left: -25em;
+}
+
+.about-content {
+    max-width: 50%;
+    float: inline-end;
 }
